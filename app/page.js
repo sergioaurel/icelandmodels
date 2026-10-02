@@ -1,10 +1,10 @@
 const models = [
-  ['Sofia', 'Reykjavík', '/models/IMG_7011.jpg'],
-  ['Mia', 'Stockholm', '/models/IMG_7012.jpg'],
-  ['Elena', 'Copenhagen', '/models/IMG_7013.jpg'],
-  ['Nora', 'Oslo', '/models/IMG_7014.jpg'],
-  ['Amelia', 'Reykjavík', '/models/IMG_7015.jpg'],
-  ['Lina', 'Helsinki', '/models/IMG_7016.jpg']
+  ['Sofia', 'Reykjavík', '/models/IMG_7011.JPG'],
+  ['Mia', 'Stockholm', '/models/IMG_7012.JPG'],
+  ['Elena', 'Copenhagen', '/models/IMG_7013.JPG'],
+  ['Nora', 'Oslo', '/models/IMG_7014.JPG'],
+  ['Amelia', 'Reykjavík', '/models/IMG_7015.JPG'],
+  ['Lina', 'Helsinki', '/models/IMG_7016.JPG']
 ];
 
 function Header() {
